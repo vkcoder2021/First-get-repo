@@ -69,4 +69,4 @@ let root1 = new Node(5);
 	else
 		document.write("BSTs are not identical");
 
-// This code is contributed by avanitrachhadiya2155
+
